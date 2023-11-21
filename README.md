@@ -1,2 +1,35 @@
-# math-internships
-Undergraduate Internship Opportunities in Math
+# Math Research Opportunities 
+I apologize in advance for the undescriptive link names, many titled "Undergraduate Research Positions" contain multiple grants/scholarships/awards/positions within the URL. *The last two links in particular are really useful as they contain multiple opportunities*. 
+
+
+| **Institution**                                  | **Link Name**                    | **URL**                                                                                                                                      |
+|--------------------------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| McGill University                                | ISA Undergraduate                | https://www.mcgill.ca/mathstat/undergraduate/undergraduate-research/summer-research-awards/ism-undergraduate-summer-scholarships             |
+| McGill University                                | NSERC                            | https://www.mcgill.ca/mathstat/undergraduate/undergraduate-research/summer-research-awards/nserc-undergraduate-student-research-awards-usras |
+| McGill University                                | SURA                             | https://www.mcgill.ca/mathstat/undergraduate/undergraduate-research/summer-research-awards/sura-science-undergraduate-research-awards        |
+| University of British Columbia                   | Undergraduate Research Positions | https://www.math.ubc.ca/undergraduate/employment/undergraduate-research-positions                                                            |
+| University of Watelroo                           | Undergraduate Research Positions | https://uwaterloo.ca/applied-mathematics/current-undergraduates/undergraduate-research-opportunities                                         |
+| Mathematical Association of America              | Undergraduate Research Positions | https://maa.org/member-communities/students/undergraduate-research                                                                           |
+| American Mathematical Society                    | Multiple Fellowships             | https://www.ams.org/programs/ams-fellowships/ams-fellowships                                                                                 |
+| University of Toronto                            | Undergraduate Research Positions | https://www.mathematics.utoronto.ca/undergraduate/current-students/research-opportunities                                                    |
+| University of Guelph                             | Undergraduate Research Positions | https://mathstat.uoguelph.ca/projects                                                                                                        |
+| MIT                                              | Undergraduate Research Positions | https://math.mit.edu/research/undergraduate/                                                                                                 |
+| University of Alberta                            | Undergraduate Research Positions | https://www.ualberta.ca/mathematical-and-statistical-sciences/undergraduate-studies/research-opportunities.html                              |
+| University of Minnesota                          | Undergraduate Research Positions | https://cse.umn.edu/math/research-opportunities-math-undergraduates                                                                          |
+| University of Western Ontario                    | Undergraduate Research Positions | https://www.math.uwo.ca/undergraduate/current_students/summer_research.html                                                                  |
+| New York University                              | Undergraduate Research Positions | https://math.nyu.edu/dynamic/sites/tandon/bs-students/research-opportunities/                                                                |
+| University of Washington                         | Undergraduate Research Positions | https://math.washington.edu/undergraduate-research-opportunities                                                                             |
+| York University                                  | NSERC                            | https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp                                                                     |
+| York University                                  | Undergraduate Research Positions | https://www.yorku.ca/science/research/nserc-usra-enura-summer-2023/                                                                          |
+| Rutgers University                               | Undergraduate Research Positions | https://www.math.rutgers.edu/academics/undergraduate/courses/research-opportunities                                                          |
+| Simon Fraser University                          | Undergraduate Research Positions | https://www.sfu.ca/math/undergraduate/current/research-awards-and-competitions.html                                                          |
+| Carleton University                              | Research Areas                   | https://carleton.ca/math/research-areas/                                                                                                     |
+| American Mathematical Society                    | Data Science & Machine Learning  | https://www.ams.org/opportunities/view/listing?listing_id=493636                                                                             |
+| American Mathematical Society                    | Undergraduate Research Positions | https://www.ams.org/opportunities/view/listing?listing_id=493601                                                                             |
+| American Mathematical Society                    | Data Science                     | https://www.ams.org/opportunities/view/listing?listing_id=493629                                                                             |
+| American Mathematical Society                    | Undergraduate Research Positions | https://www.ams.org/opportunities/view/listing?listing_id=493519                                                                             |
+| American Mathematical Society                    | Undergraduate Research Positions | https://www.ams.org/opportunities/view/listing?listing_id=493579                                                                             |
+| University of Michigan                           | Undergraduate Research Positions | https://www.ams.org/opportunities/view/listing?listing_id=493611                                                                             |
+| University of Chicago Mathematics Summer Program | Summer Program                   | https://www.ams.org/opportunities/view/listing?listing_id=493653                                                                             |
+| National Science Foundation                      | Undergraduate Research Positions | https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5044                                                                                 |
+| Mathematical Association of America              | Summer Program                   | https://maa.org/member-communities/students/semester-and-summer-programs                                                                     |
